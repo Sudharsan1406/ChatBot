@@ -7,7 +7,7 @@ import os
 # GROQ API
 # -----------------------------
 client = Groq(
-    api_key="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"
+    api_key="Secret Key"
 )
 
 # -----------------------------
