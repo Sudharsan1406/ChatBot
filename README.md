@@ -170,9 +170,9 @@ instead of storing the key inside the source code.
 
 AI Developer | Data Scientist | Machine Learning Enthusiast
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Sudharsan1406
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/sudharsan14/
 
 ---
 
