@@ -34,7 +34,6 @@ A conversational AI chatbot built using **Streamlit** and **Groq LLM** with pers
 Memory-Chatbot/
 │
 ├── Chatbot-1.py          # Main Streamlit Application
-├── chat_history.json     # Stores conversation history
 ├── requirements.txt
 ├── README.md
 └── screenshots/
@@ -124,13 +123,6 @@ client = Groq(
 streamlit run Chatbot-1.py
 ```
 
-Application opens at
-
-```
-http://localhost:8501
-```
-
----
 
 ## 💬 How It Works
 
@@ -141,20 +133,6 @@ http://localhost:8501
 5. Response is displayed.
 6. Entire conversation is saved into `chat_history.json`.
 7. Previous chats are automatically loaded when the application restarts.
-
----
-
-## 📸 Application Screenshot
-
-Add your screenshot inside:
-
-```
-screenshots/chatbot_ui.png
-```
-
-Example:
-
-![Memory Chatbot](screenshots/chatbot_ui.png)
 
 ---
 
